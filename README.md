@@ -1,4 +1,4 @@
-# NLP weather API for the Minodu LCN
+# NLP weather API for Minodu LCN (Local Comunity Network)
 
 This project provides a lightweight Flask API deployed on a Raspberry Pi, designed to deliver interpreted weather bulletins specifically for the teleagriculture stations deployed in the farmers communities in Kara, northern Togo. The API uses a local language model (LLM) via Ollama to analyze raw weather station data and generate relevant forecasts and advice for agriculture, taking into account the current season.
 
