@@ -110,7 +110,7 @@ curl -X POST -H "Content-Type: application/json" -d '{"Battery":0,"temp":22,"hum
 }
 ```
 
-### Technologies Used
+### Technologies used
 - Python 3
 - Flask: Web micro-framework for the API.
 - Ollama: For local execution of language models.
